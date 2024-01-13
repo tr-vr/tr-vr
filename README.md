@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tr-vr
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning CS61A/B/C & specialising in fullstack development.
+- 🌱 I’m currently learning CS61A/B/C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
